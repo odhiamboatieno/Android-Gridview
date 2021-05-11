@@ -1,7 +1,10 @@
 <resources>
-    <string name="app_name">Odhiambo Webview</string>
-    <string name="please_wait">Loading please wait&#8230;</string>
-    <string name="no_internet">Check your connection!</string>
-    <string name="settings">Settings</string>
-    <string name="back_again_to_exit">Please click BACK again to exit</string>
+    <string name="app_name">Odhiambo Gridview</string>
+    <string name="todo">todo</string>
+    <string name="gg2">Gridview Implementation </string>
+    <string name="now_we_are_in_frag">now we are in frag</string>
+
+    <string name="hello_blank_fragment">Detail of chosenitem</string>
+    <string name="price">Price</string>
+    <string name="red_for_sell">#000000</string>
 </resources>
